@@ -11,6 +11,15 @@ export default function Timeline() {
         ],
       },
       {
+        role: 'Web Developer',
+        company: 'Cloud Security Alliances Bangalore Chapter',
+        duration: 'Jun 2021 - Jul 2023',
+        details: [
+          'Created and maintained dynamic web pages with Next.js, Tailwind CSS, and Firebase',
+          'Played a key role in building a thriving student community, coordinating speakers, guests, and participants for seamless event execution',
+        ],
+      },
+      {
         role: 'Web Developer Intern',
         company: 'Brainerd Solutions LLC',
         duration: 'Dec 2022 - Jun 2023',

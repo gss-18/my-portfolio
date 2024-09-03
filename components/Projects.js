@@ -16,6 +16,21 @@ export default function Projects() {
       title: 'Disease Prediction',
       description: 'Achieved 97% accuracy in disease prediction through rigorous model training and cross-validation techniques.',
       link: 'https://github.com/gss-18/Final_Project'
+    },
+    {
+      title: 'Cricket Score Predicto',
+      description: 'Predicting the first innings cricket score based on the present match circumstances is the major goal of this project.',
+      link: 'https://github.com/gss-18/Cricket_Score_Predictor'
+    },
+    {
+      title: 'BIT-D Computerization',
+      description: 'This project, the Computerization of BIT-Deoghar, involving four modules that are Computer Science, electronics and communication, Clubs and societies and TPO.',
+      link: 'https://github.com/gss-18/SE_Final-Project'
+    },
+    {
+      title: 'House Rate Prediction',
+      description: 'This data science project walks through step by step process of how to build a real estate price prediction.',
+      link: 'https://github.com/gss-18/Data-Science-Regression-Project-Predicting-Home-Prices-in-Banglore'
     }
   ];
 
