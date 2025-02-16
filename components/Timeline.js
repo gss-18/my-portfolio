@@ -1,6 +1,28 @@
 export default function Timeline() {
     const experiences = [
       {
+        role: 'Business Analyst Intern',
+        company: 'Helm',
+        duration: 'Jan 2025 - Present',
+        details: [
+          'Automated the end-to-end quarterly reporting process by extracting and transforming data in SQL Server using stored procedures and tailored transformations for seamless Power BI integration',
+          'Designed and developed interactive Power BI dashboards to visualize key metrics, ensuring data-driven insights and streamlined reporting workflows',
+          'Enabled one-click refresh automation to generate updated PowerPoint presentations (PPTX) with dynamic visuals for each quarter, significantly improving efficiency and consistency in reporting',
+          'Developed ML-driven data analytics solutions using Python, SQL, and statistical models to improve business operations',
+          'Partnered with engineering teams to enhance data infrastructure and improve analytics scalability',
+          'Conducted data-driven optimizations for product development and performance insights'
+        ],
+      },
+      {
+        role: 'Student Worker',
+        company: 'National American Advancement and Tribal Engagement (NAATE)',
+        duration: 'Sep 2024 - Dec 2024',
+        details: [
+          'Assisted in the development of a comprehensive database to track and analyze tribal engagement metrics',
+          'Collaborated with the team to develop a data-driven strategy to improve tribal engagement and outreach',
+        ]
+      },
+      {
         role: 'Web Developer',
         company: 'Wyant College of Optical Sciences, University of Arizona',
         duration: 'Sep 2023 - Aug 2024',

@@ -3,6 +3,12 @@ import ProjectCard from './ProjectCard';
 export default function Projects() {
   const projects = [
     {
+      title: 'Realtime Data Streaming Pipeline',
+      description: 'This project serves as a comprehensive way to building an end-to-end data engineering pipeline. ',
+      link: 'https://github.com/gss-18/Realtime-Data-Streaming'
+     },
+
+    {
       title: 'Telco Customer Churn Prediction',
       description: 'Developed a machine learning model to predict customer churn with 82% accuracy using Python.',
       link: 'https://github.com/gss-18/Telco_Project'
@@ -18,7 +24,7 @@ export default function Projects() {
       link: 'https://github.com/gss-18/Final_Project'
     },
     {
-      title: 'Cricket Score Predicto',
+      title: 'Cricket Score Predictor',
       description: 'Predicting the first innings cricket score based on the present match circumstances is the major goal of this project.',
       link: 'https://github.com/gss-18/Cricket_Score_Predictor'
     },
